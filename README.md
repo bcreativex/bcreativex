@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bcreativex&show_icons=true&locale=en" alt="bcreativex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bcreativex&" alt="bcreativex" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=bcreativex)](https://git.io/streak-stats)</p>
