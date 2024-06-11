@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Jatav</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcreativex" alt="bcreativex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcreativex&theme=onedark" alt="bcreativex" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
