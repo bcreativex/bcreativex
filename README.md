@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcreativex&theme=onedark" alt="bcreativex" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://bcreativex.github.io/Krishnajatav/](https://bcreativex.github.io/Krishnajatav/)
 
