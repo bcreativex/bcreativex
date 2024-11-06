@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bcreativex&theme=dark" alt="bcreativex" /></p>
 
+[![An image of @bcreativex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bcreativex)](https://holopin.io/@bcreativex)
